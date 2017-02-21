@@ -1,0 +1,14 @@
+{
+  "name": "pb-sample-node-form",
+  "description": "A sample form written in Node",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "^4.6",
+    "npm": "3.10.9"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "nconf": "0.8.2"
+  }
+}

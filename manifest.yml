@@ -1,0 +1,8 @@
+applications:
+- name: DSC-sample-node-form
+  framework: node
+  memory: 64M
+  instances: 1
+  host: DSC-sample-node-form-1
+  path: .
+  command: node app.js
