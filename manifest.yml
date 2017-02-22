@@ -3,6 +3,6 @@ applications:
   framework: node
   memory: 64M
   instances: 1
-  host: idsupgrade-sample-node-form-1
+  host: idsupgrade-sample-node-form-beta3
   path: .
   command: node app.js
